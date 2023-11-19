@@ -1,0 +1,45 @@
+body {
+    background-color: #E5F3FD;
+}
+
+.nav {
+    background-color: #9ABDDC; 
+    font-family: Didot, serif, 'Times New Roman', Times, serif;
+    border: solid 
+}
+
+.heading { 
+    background-color: #9ABDDC;
+}
+
+
+h1 {
+    font-family: Didot, serif, 'Times New Roman', Times, serif;
+    color: black;
+
+
+}
+
+.bitmoji{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+} 
+
+
+h5 {
+    line-height: 1.5;
+  }
+
+ .top {
+    text-align: right;
+    color: black
+
+  }
+
+
+
+
+
+
