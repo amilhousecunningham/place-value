@@ -16,8 +16,6 @@ body {
 h1 {
     font-family: Didot, serif, 'Times New Roman', Times, serif;
     color: black;
-
-
 }
 
 .bitmoji{
@@ -35,7 +33,10 @@ h5 {
  .top {
     text-align: right;
     color: black
+  }
 
+  .author {
+    font-size: 10px;
   }
 
 
