@@ -37,7 +37,15 @@ h5 {
 
   .author {
     font-size: 10px;
+    text-align: right;
+    color: black
   }
+
+.audio {
+        font-size: 10px;
+     
+
+}
 
 
 
